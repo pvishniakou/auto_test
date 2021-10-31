@@ -1,4 +1,2 @@
 # auto_test
-first_auto_tests
-hello
-world
+Задания с курса по автоматизации тестирования
